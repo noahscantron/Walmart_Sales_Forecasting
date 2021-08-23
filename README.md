@@ -68,12 +68,12 @@ The final refinement RSCV’d over the hyperparameters criterion, max_depth, and
 
 ## Further Research
 While the focus of this project was to learn the data-science methodology and stack by creating a project that would have business-impact, there is more that I would have liked to have done:
-> Use statsmodels tsa (time-series analysis) to decompose this series and find the:
-  > Trend
-  > Seasonality
-  > Residuals
-> Apply auto-regressive integrated moving average (ARIMA)
-  > This is almost redundant of the previous point, but I find worth noting
+> * Use statsmodels tsa (time-series analysis) to decompose this series and find the:
+	> * Trend
+	> * Seasonality
+	> * Residuals
+> * Apply auto-regressive integrated moving average (ARIMA)
+	> * This is almost redundant of the previous point, but I find worth noting
 
 ## How to Use the Findings
 Use this model to forecast and prepare Walmart’s supply operations based on predictions of demand.
